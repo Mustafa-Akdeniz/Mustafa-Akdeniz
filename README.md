@@ -2,6 +2,7 @@
 
 # Alt Bilgi
 fskjfbsf
-dsfnsjldfsd
+
+değişiklik yapıldı
 
 [lorem ipsum](https://akdenizhukuk.av.tr)
